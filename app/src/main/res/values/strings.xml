@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FiveDiceGame</string>
+
+    <string-array name="tasks">
+        <item>jedynki</item>
+        <item>dwójki</item>
+        <item>trójki</item>
+        <item>czwórki</item>
+        <item>piątki</item>
+        <item>szóstki</item>
+        <item>3 jednakowe</item>
+        <item>4 jednakowe</item>
+        <item>ful</item>
+        <item>mały strit</item>
+        <item>duży strit</item>
+        <item>generał</item>
+        <item>szansa</item>
+    </string-array>
+</resources>
